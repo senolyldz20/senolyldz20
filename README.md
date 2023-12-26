@@ -1,4 +1,3 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6b8a0699093857.5eeafdd995e46.gif)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Şenol YILDIZ
 =====================================================================================================================================
 Data Analyst
