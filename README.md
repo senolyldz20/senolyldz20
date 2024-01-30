@@ -10,7 +10,7 @@ I am an industrial engineer with a keen interest in the latest developments in i
 * 🧠  I'm learning Data Analyst
 * 🤝  I'm open to collaborating on Data Analytics, CRM, RFM
 
-<img align="right" alt="Coding" width="400" src=https://camo.githubusercontent.com/1200ac16cde9ddb85df58df3a073756e4ba1a993c4f22f75e9db14fc9c453469/68747470733a2f2f6861727368636f6465732e776562736974652f6173736574732f696d616765732f67616c6c6572792f7765625f6465762e676966>
+<img align="right" alt="Coding" width="400" src="https://ibb.co/z8LtjF1"><img src="https://i.ibb.co/z8LtjF1/Logom.png" alt="Logom" border="0">
 
 
 
