@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Şenol YILDIZ
 =====================================================================================================================================
 
+
 About Me
 -----------------------------------------------------------------
+
 📊 Data Analyst | 🛠️ Learner | 📈 Passionate about Analytics
 
 Welcome to my GitHub profile! I'm a data analyst enthusiast with a passion for turning data into insights, stories, and interactive visualizations. Here, you'll find my portfolio of data analyst projects, showcasing my skills in analysis, machine learning, and beyond.
@@ -11,6 +13,7 @@ Welcome to my GitHub profile! I'm a data analyst enthusiast with a passion for t
 * ✉️  You can contact me at [senoll.yldzz@gmail.com](mailto:senoll.yldzz@gmail.com)
 * 🧠  I'm learning Data Analyst
 * 🤝  I'm open to collaborating on Data Analytics, CRM, RFM
+
 
 ## Socials
 <p align="left"> <a href="https://www.github.com/senolyldz20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/senolyldz20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@senoll.yldzz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
