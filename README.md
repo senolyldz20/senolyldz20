@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About Me
 -----------------------------------------------------------------
 📊 Data Analyst | 🛠️ Learner | 📈 Passionate about Analytics
+
 Welcome to my GitHub profile! I'm a data analyst enthusiast with a passion for turning data into insights, stories, and interactive visualizations. Here, you'll find my portfolio of data analyst projects, showcasing my skills in analysis, machine learning, and beyond.
 
 * 🌍  I'm based in Turkey
