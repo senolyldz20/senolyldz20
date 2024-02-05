@@ -1,9 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Şenol YILDIZ
 =====================================================================================================================================
-📊 Data Scientist | 🛠️ Learner | 📈 Passionate about Analytics
-------------
 
-I am an industrial engineer with a keen interest in the latest developments in innovative data analytics and machine learning technologies.
+About Me
+-----------------------------------------------------------------
+📊 Data Analyst | 🛠️ Learner | 📈 Passionate about Analytics
+Welcome to my GitHub profile! I'm a data analyst enthusiast with a passion for turning data into insights, stories, and interactive visualizations. Here, you'll find my portfolio of data analyst projects, showcasing my skills in analysis, machine learning, and beyond.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [senoll.yldzz@gmail.com](mailto:senoll.yldzz@gmail.com)
