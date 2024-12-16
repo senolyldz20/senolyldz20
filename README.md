@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a data analyst enthusiast with a passion for t
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [senoll.yldzz@gmail.com](mailto:senoll.yldzz@gmail.com)
 * 🧠  I'm learning Data Science 
-* 🤝  I'm open to collaborating on Data Analytics, CRM, RFM
+* 🤝  I'm open to collaborating on Data Analytics, CRM, Machine Learning
 
 
 ## Socials
